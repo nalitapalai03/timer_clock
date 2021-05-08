@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/timer_clock/static/css/main.d565c505.chunk.css",
+    "main.js": "/timer_clock/static/js/main.5f05e9bd.chunk.js",
+    "main.js.map": "/timer_clock/static/js/main.5f05e9bd.chunk.js.map",
+    "runtime-main.js": "/timer_clock/static/js/runtime-main.952c1484.js",
+    "runtime-main.js.map": "/timer_clock/static/js/runtime-main.952c1484.js.map",
+    "static/js/2.55e6b9a4.chunk.js": "/timer_clock/static/js/2.55e6b9a4.chunk.js",
+    "static/js/2.55e6b9a4.chunk.js.map": "/timer_clock/static/js/2.55e6b9a4.chunk.js.map",
+    "static/js/3.b8e73a3b.chunk.js": "/timer_clock/static/js/3.b8e73a3b.chunk.js",
+    "static/js/3.b8e73a3b.chunk.js.map": "/timer_clock/static/js/3.b8e73a3b.chunk.js.map",
+    "index.html": "/timer_clock/index.html",
+    "static/css/main.d565c505.chunk.css.map": "/timer_clock/static/css/main.d565c505.chunk.css.map",
+    "static/js/2.55e6b9a4.chunk.js.LICENSE.txt": "/timer_clock/static/js/2.55e6b9a4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/timer_clock/static/media/i2.2e6c9152.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.952c1484.js",
+    "static/js/2.55e6b9a4.chunk.js",
+    "static/css/main.d565c505.chunk.css",
+    "static/js/main.5f05e9bd.chunk.js"
+  ]
+}
